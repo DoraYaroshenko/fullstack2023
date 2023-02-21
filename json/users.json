@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "63eb5d874a3b75b418801805"
+  },
+  "name": "Joe Biden",
+  "email": "biden@walla.com",
+  "password": "$2b$10$hTJuhflfLujgdG.jagWPKONnm.P6N.TsiOJPsjNAhCOyxG1K.rPrq",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1676369287989"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63eb7120611f7964dc4013cf"
+  },
+  "name": "Barak Obama",
+  "email": "biden@wal.com",
+  "password": "$2b$10$x0Kpq6yk0LdSusle532NOuomd75ZOhQelJF25HpmYAPgBDq.HLqvy",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1676374304558"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63eb72813a0f9368a9fe007d"
+  },
+  "name": "Barak Obama",
+  "email": "biden@walladdd.com",
+  "password": "$2b$10$bSidxsNCCe.tbNEMP0ksa.6RJkyhQuUT/uDbDFdU6iOKpS5ydnmhG",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1676374657925"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63eb7767ec95027650c9b63d"
+  },
+  "email": "biden@wallaa.com",
+  "password": "$2b$10$EXboMVyRSynUehY.OB8DU.7GKpXAR2eyIVYHHS0EFFH2GiigLyVOe",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1676375911277"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63edddabb6d0f87a0672d95f"
+  },
+  "name": "Trump",
+  "email": "trump@walla.com",
+  "password": "$2b$10$vCmB/EpWOW1bk08N./uuguGRD4KL6/.ZWEp4TkrcYLFEDpMxDoXR6",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1676533163838"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63efa4ffd872f9e5f4c75c74"
+  },
+  "name": "Yota",
+  "email": "Ice@gmail.com",
+  "password": "$2b$10$1gI3ctfh61P.aXiQBbvuNu0t8JnCtrqAypVigVFGo.ySNFdaLSdCa",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1676649727149"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63efa64dd872f9e5f4c75c7a"
+  },
+  "name": "ye",
+  "email": "rrrr@gmail.com",
+  "password": "$2b$10$sKvTldGAHy/PJooGtoDlMeI/UrUXW3mi/cabDRXZbGQHrYuYo0bWK",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1676650061484"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f4729247ef53d687ac7ad0"
+  },
+  "name": "George bush",
+  "email": "bush@walla.com",
+  "password": "$2b$10$4FknFYJYw9SieRMDLtfopesQRm.McXVryKK49eV/fS0KwC/D31RxS",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1676964498519"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f4a55547ef53d687ac7c3b"
+  },
+  "name": "Dora Yaroshenko",
+  "email": "yaroshenkodora@gmail.com",
+  "password": "$2b$10$WFYH0aeUFvuTtogTkjipaeQmOlDNahE.2RQoUAlbUmlrOK2uJStfC",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1676977493123"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f4a5b547ef53d687ac7c3f"
+  },
+  "name": "Dora Yaroshenko",
+  "email": "yar@gmail.com",
+  "password": "$2b$10$HJPyW8UT3mcw5oDMNNGrOuT2sTAA6m9oFOF5pdwSbthtBHllXWeiG",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1676977589232"
+    }
+  },
+  "__v": 0
+}]
